@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Writing"
+  short_description: "Write journal manuscripts from verified key-paper structures"
+  default_prompt: "Use $paper-writing to draft this manuscript section from the selected key paper and verified literature."

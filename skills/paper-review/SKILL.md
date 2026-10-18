@@ -16,12 +16,18 @@ Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
 3. Report each issue with location, exact problem, evidence, priority, and proposed replacement. Do not edit until the user approves.
 4. Preserve structure, paragraph count, analytical design, and supported claims. Review is minor-revision-scale correction, not a new manuscript.
 5. Record approved changes in a revision ledger and apply them consistently to every affected file. Recheck earlier sections if later changes alter terminology, numbers, claims, or citations.
+6. Verify against the code and the result files, not only against the text. Sign conventions (bias, error, imbalance), mechanism sentences ("X is costly because …") and institutional rules are checked against the model code, the result components and the reading record of the source paper. A review that compares prose with prose can find a contradiction and still propose the wrong fix: in one review the definition was right and every direction label and mechanism sentence was reversed; the code decided which.
+7. A number check covers derived numbers as well as table cells: row sums, ratios, percentages, interpolated values and "per unit" conversions that the text builds from the tables, each with the formula used.
+8. Findings from a delegated reviewer (an agent or a colleague) are hypotheses. Re-verify every submission-critical finding and its proposed replacement before it enters the report, and record in the ledger which proposals were rejected and why.
+9. When the journal's own author guide cannot be reached, state that, use two independent summaries plus the format of two archived articles from the journal, and list the items the author must confirm on the official page before submission.
 
 ## Priorities
 
 1. Submission-critical: inconsistencies in samples, numbers, results, tables/figures, objectives, variables, models, abbreviations, citations/references, authorship, declarations, anonymity, or journal format; unsupported novelty or causality.
 2. Completeness: gap clarity, paragraph connections, reproducibility, results/discussion separation, interpretations, implications, limitations, and conventional language.
 3. Copyediting: grammar, articles, prepositions, tense, terminology, decimals, capitalization, hyphenation, captions, fonts, and spacing.
+
+Working notes, assembly headers, "(File: …)" caption notes and verify flags stay in the markdown source until the submission file is produced, and the submission-and-visuals checklist strips them then.
 
 Do not claim to detect a speculative AI watermark. Inspect actual metadata, comments, tracked changes, hidden text, working notes, placeholders, document properties, and required AI disclosure.
 

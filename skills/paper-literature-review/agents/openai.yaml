@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Literature Review"
+  short_description: "Collect, archive and read ~100 full-text papers; derive the gap and design revisions"
+  default_prompt: "Use $paper-literature-review to collect, archive and read the literature for this topic and report the gap, anchor papers and design revisions."

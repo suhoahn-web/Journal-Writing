@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Data Collection"
+  short_description: "Inventory, clean and document datasets for the study"
+  default_prompt: "Use $paper-data-collection to inventory the uploaded files, build the processed tables and write the data note."

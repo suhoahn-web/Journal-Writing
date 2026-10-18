@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Data Analysis"
+  short_description: "Design, implement and run the experiments; report results in rounds"
+  default_prompt: "Use $paper-data-analysis to write the research design, run the experiments and report the results with the decisions I need to make."

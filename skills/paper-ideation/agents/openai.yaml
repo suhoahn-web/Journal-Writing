@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Ideation"
+  short_description: "Propose, verify and confirm a feasible journal-paper topic"
+  default_prompt: "Use $paper-ideation to propose and rank paper topics with verified data access, then confirm one topic with me."

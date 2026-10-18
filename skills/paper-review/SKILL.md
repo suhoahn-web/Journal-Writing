@@ -7,6 +7,8 @@ description: Audit a completed empirical manuscript for submission to a specifie
 
 Treat the manuscript as a completed, key-paper-aligned draft. Review from the target journal's reviewer perspective and make the smallest change that materially reduces rejection risk.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Protocol
 
 1. Inspect current journal instructions and representative published articles.

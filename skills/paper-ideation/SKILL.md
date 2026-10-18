@@ -7,6 +7,8 @@ description: Generate, verify and rank candidate topics for a new empirical jour
 
 Produce a topic the user can actually finish: academically publishable, built on data that can really be downloaded, and feasible for one researcher. Institutional or job relevance is a secondary criterion, never the first.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Workflow
 
 1. Collect the constraints before proposing anything: field, the user's existing expertise and models, journal rules (only SCI, SCIE or SSCI journals count; mega open-access venues do not), any institutional brief, and what the user can run themselves.

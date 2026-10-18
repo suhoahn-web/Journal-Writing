@@ -7,6 +7,8 @@ description: Collect, archive and read about one hundred full-text SCI/SCIE/SSCI
 
 The review exists to make the study's difference visible and to test the design against what has been done. It is based only on papers whose full text was obtained, archived and read.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Workflow
 
 1. Define the streams of literature the topic sits between (typically three to five) and the questions the review must answer: where the gap is, which methods are standard, which papers are closest, which journal and anchor paper fit.

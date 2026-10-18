@@ -2,6 +2,8 @@
 
 Reusable Codex skills for an empirical journal-paper workflow.
 
+Read [PRINCIPLES.md](PRINCIPLES.md) first: the author's working criteria that every skill follows.
+
 ## Available skills
 
 In the order of a paper's life:

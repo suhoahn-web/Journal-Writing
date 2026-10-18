@@ -7,6 +7,8 @@ description: Turn a confirmed data plan into inventoried, cleaned and documented
 
 Data that cannot be downloaded is not data. Every file is inventoried, every cleaning decision is written down, and the raw files are never altered.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Workflow
 
 1. From the data plan, list every dataset: provider, URL or menu path, period, granularity, format, encoding, size and access mode. Check which sources the working environment can reach; many public portals cannot be reached from a cloud environment and the user must download them.

@@ -7,6 +7,8 @@ description: Write and assemble an empirical journal manuscript by selecting pub
 
 Write from completed evidence, not an invented story. Preserve the user's results, terminology, section structure, paragraph count, and approved wording unless the user authorizes a change.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Workflow
 
 1. Inspect the research materials, results, target journal, and literature before drafting.

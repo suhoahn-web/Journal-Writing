@@ -7,6 +7,8 @@ description: Write the research design, implement the model, run the experiments
 
 The experiment is designed on paper first, confirmed by the user, then coded, validated and run in rounds. Every number that reaches a document is traceable to a results file.
 
+Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
+
 ## Workflow
 
 1. Write the research design before any code: question and hypotheses; model with equations and the decision stages; the experimental variable and how it is varied (for example a ladder of controlled error levels between perfect foresight and naive baselines); base-case parameters with their sources; scenario grid; metrics and units; first and second target journal; and the decisions the user must make, each with a recommended default.

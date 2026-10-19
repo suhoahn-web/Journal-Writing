@@ -11,7 +11,7 @@ Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
 
 ## Workflow
 
-1. Inspect the research materials, results, target journal, and literature before drafting.
+1. Inspect the research materials, results, target journal, and literature before drafting. Confirm the journal cascade with the user (first choice plus one or two lower journals of the same family); the first choice sets structure and key papers, the cascade keeps journal-specific details from driving content ([principle 20](../../PRINCIPLES.md)).
 2. Select key papers from the target journal where possible. Prioritize similarity of analytical method and data-to-results structure over superficial topic similarity, especially from Data onward. Additional literature must be verified SCI, SCIE, or SSCI journal articles.
 3. Read key papers paragraph by paragraph. Report exactly one item per source paragraph. For the paragraph being followed, identify every sentence's function, content, and whether it has a citation; do not substitute a thematic summary.
 4. Before each draft paragraph, report in this order: the key paper's sentence-level logic; what the user's paper must cover; the proposed sentence-level plan; the English draft and, when requested, a faithful Korean version.

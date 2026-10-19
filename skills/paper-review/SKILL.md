@@ -11,7 +11,7 @@ Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
 
 ## Protocol
 
-1. Inspect current journal instructions and representative published articles.
+1. Inspect current journal instructions and representative published articles. Separate findings that any journal would raise (consistency, numbers, claims) from those tied to this journal's format (length, highlights, abstract limit); the second kind is proposed as a submission-time adjustment and never as a cut to approved content ([principle 20](../../PRINCIPLES.md)).
 2. Review one section at a time, normally beginning with the Abstract.
 3. Report each issue with location, exact problem, evidence, priority, and proposed replacement. Do not edit until the user approves.
 4. Preserve structure, paragraph count, analytical design, and supported claims. Review is minor-revision-scale correction, not a new manuscript.

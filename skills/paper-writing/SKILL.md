@@ -17,7 +17,7 @@ Apply the repository's [working principles](../../PRINCIPLES.md) throughout.
 4. Before each draft paragraph, report in this order: the key paper's sentence-level logic; what the user's paper must cover; the proposed sentence-level plan; the English draft and, when requested, a faithful Korean version.
 5. Make each paragraph's first sentence state its central message. Keep lengths broadly comparable to the key paper; any user-set minimum sentence count is a hard constraint.
 6. Verify every cited claim against the full paper. Save missing papers in the project's literature-review folder. If lawful access fails, immediately provide the full title for the user to obtain; if it remains unavailable, use a verified replacement rather than guessing.
-7. Insert tables and figures where the argument first needs them and cite them in numerical order. Keep captions concise; put sample details, tests, symbols, and display conventions in notes, and interpretation in the body.
+7. Insert tables and figures where the argument first needs them and cite them in numerical order; a figure added late is renumbered into citation order, with its file renamed, rather than appended as the last number. When the journal takes tables and figures at the end or as separate files, put a "[Table N about here]" line after the paragraph that first presents each one so the referee knows where it belongs. Keep captions concise; put sample details, tests, symbols, and display conventions in notes, and interpretation in the body.
 8. Assemble only approved paragraphs. Never repartition, merge, shorten, or regenerate completed sections on personal judgment.
 
 ## References to read when needed
